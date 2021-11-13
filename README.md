@@ -7,4 +7,4 @@ This is assignment 12 and my project is about making a niche-product-website.
 - I have implemented email/password based Authentication.
 - I have made the website responsive for desktop and mobile.I have tried my best to fullfill all requirements those are given.
 ## live link
-You can see the [live link of this project]()
+You can see the [live link of this project](https://jewelry-palace.web.app/)
